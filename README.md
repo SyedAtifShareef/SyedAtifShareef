@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SyedAtifShareef
 - 👀 I’m interested in Programming and Web development
-- 🌱 I’m currently learning HTML,CSS and JavaScript
-- 💞️ I’m looking to collaborate on Web Dev projects
+- 🌱 I’m currently learning HTML,CSS,JavaScript and React.
+- 💞️ I’m looking to collaborate on Web Dev projects and open to internships.
 - 📫 How to reach me @Syed Atif Shareef on Linkedin
 
 <!---
